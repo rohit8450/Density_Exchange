@@ -143,7 +143,7 @@ const ContainerCardFormFilter = ({
     <FrameParentRoot>
       <FrameGroup>
         <GroupParent>
-          <FrameChild alt="" src={cryptoImageUrl} />
+          <FrameChild alt="" src="./group-626505.svg" />
           <BitcoinParent>
             <Bitcoin>{cryptoLogoUrl}</Bitcoin>
             <Btcusdt>{cryptoPairImageUrl}</Btcusdt>
